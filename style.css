@@ -1,0 +1,13 @@
+/* CSS */
+.qv-object-qsHeatmapn .tooltip {
+    position: absolute;
+    text-align: center;
+    color: #EEE;
+    padding: 5px;
+    font: 13px sans-serif;
+    background: rgba(0, 0, 0, 0.7);
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+
+}
