@@ -4,6 +4,7 @@
     "type": "visualization",
     "version": "1.0.0",
     "author": "Luke Wileczek",
+    "icon": "treemap",
     "homepage": "",
     "keywords": "qlik-sense, visualization",
     "license": "",
